@@ -6,7 +6,8 @@
   "name": "Skin Fix",
   "description": "Fixes skin & capes for Beta 1.7.3 using the blazing fast Cloudflare Workers-based api by Ashcon Partovi (https://ashcon.app/).",
   "authors": [
-    "Me!"
+    "Allink",
+    "Devious-Inc"
   ],
   "contact": {
     "issues": "https://github.com/Devious-Inc/cursed-fabric-skin-fix/issues",
