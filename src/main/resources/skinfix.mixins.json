@@ -1,11 +1,12 @@
 {
   "required": true,
-  "package": "io.github.minecraftcursedlegacy.example.mixin",
+  "package": "io.github.deviousinc.skinfix.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "entity.AbstractClientPlayerMixin",
+    "entity.PlayerMixin"
   ],
   "client": [
-    "ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
